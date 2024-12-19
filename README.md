@@ -7,7 +7,7 @@ Ce projet a été fait dans le cadre du cours de 3D1. On avait comme mandat de f
 #### Vue 2 ####
 ![Vue 2](<vue2.jpg>)
 
-### Ce repositoire contient le fichier .max du projet. ###.
+### Ce repositoire contient le fichier .max du projet. ###
 
 ### Contact ###
 * https://tim-cstj.ca/
